@@ -7,7 +7,7 @@ body {
 .slide__audio {
   position: relative;
   background: #555;
-  width: 0px;
+  width: 100px;
   top: 20%;
   margin: 0 auto;
 }
